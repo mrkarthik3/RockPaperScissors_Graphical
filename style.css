@@ -1,0 +1,13 @@
+* {
+    background: transparent ;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+.pscore, .cscore {
+    font-size: 0.7rem;
+    font-weight: bolder;
+}
+
